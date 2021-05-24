@@ -1,0 +1,6 @@
+[submodule "src/Roact"]
+	path = src/Roact
+	url = https://github.com/Roblox/Roact
+[submodule "src/Flipper"]
+	path = src/Flipper
+	url = https://github.com/Reselim/Flipper
