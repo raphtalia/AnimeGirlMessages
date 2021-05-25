@@ -30,6 +30,8 @@ return {
             "keep working hard nya!",
             "nyice!",
             "work hard! nya!",
+            "nyani's this?",
+            "nyani's that?",
             ">=3",
         },
         -- not sure what to put for a neko
