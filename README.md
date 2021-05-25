@@ -12,5 +12,4 @@ This rewrite is written with [Roact](https://github.com/Roblox/roact) and [Flipp
 
 ## Installing
 
-1. Install from the [Roblox Library](https://www.roblox.com/library/6858036129/AnimeGirlMessages)
-2. Or run the `build.ps1` file
+Install from the [Roblox Library](https://www.roblox.com/library/6858036129/AnimeGirlMessages) **OR** run the `build.ps1` file
